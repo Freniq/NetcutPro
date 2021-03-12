@@ -6,7 +6,7 @@
 // @author       batininhani
 // @match        https://www.arcai.com/netCut/s/
 // @grant        GM_webRequest
-// @webRequest   [{"selector":"https://www.arcai.com/netCut/s/main-*.js","action":"cancel"}]
+// @webRequest   [{"selector":"https://www.arcai.com/netCut/s/netcut_pro.js","action":"cancel"}]
 // @require       http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js
 // ==/UserScript==
 
